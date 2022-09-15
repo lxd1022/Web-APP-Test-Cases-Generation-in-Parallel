@@ -1,0 +1,945 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1b8c5a93-dbed-434f-a95f-0f1637057fe7" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Unit Test" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1tnANY5REaudp2WmqyWVZhH7ark" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="FirefoxBinary&#9;null&#9;null&#10;fire&#9;FILE&#9;file://D:/programs/python27/Lib/site-packages/selenium/webdriver/firefox/firefox_binary.py&#10;elitis&#9;null&#9;null&#10;conf&#9;FILE&#9;file://D:/PyCharm Community Edition 2017.2/projects/graphTraversal/handle/config.py&#10;con&#9;FILE&#9;file://D:/PyCharm Community Edition 2017.2/projects/graphTraversal/handle/config.py&#10;GA&#9;FILE&#9;file://D:/PyCharm Community Edition 2017.2/projects/graphTraversal/handle/generate_seq_ga_check.py&#10;popsize&#9;null&#9;null&#10;generate_seq_by_ga&#9;null&#9;null&#10;popcszie&#9;null&#9;null&#10;pm&#9;null&#9;null&#10;file2&#9;null&#9;null&#10;print&#9;null&#9;null&#10;crossover&#9;null&#9;null&#10;arr&#9;null&#9;null&#10;instru&#9;null&#9;null&#10;getSpathFile&#9;null&#9;null&#10;findStartTransition&#9;null&#9;null&#10;geturl&#9;null&#9;null&#10;testProcee&#9;null&#9;null&#10;gdata&#9;null&#9;null&#10;self.excute&#9;null&#9;null&#10;command_executor.execute&#9;null&#9;null&#10;W&#9;FILE&#9;file://D:/programs/python27/Lib/site-packages/selenium/webdriver/remote/webdriver.py&#10;NoSuc&#9;null&#9;null&#10;getInstrumentFile&#9;null&#9;null&#10;seq&#9;FILE&#9;file://D:/PyCharm Community Edition 2017.2/projects/graphTraversal/handle/seq_to_script.py&#10;NoSuchElementException&#9;null&#9;null&#10;oSuchElementException&#9;null&#9;null&#10;check_response&#9;null&#9;null&#10;session_id&#9;null&#9;null&#10;execute&#9;FILE&#9;file://D:/PyCharm Community Edition 2017.2/projects/graphTraversal/handle/execute.py&#10;findele&#9;null&#9;null&#10;find_element&#9;null&#9;null&#10;find_element_by_link_text&#9;null&#9;null&#10;click_event_link_all&#9;null&#9;null&#10;find_by&#9;null&#9;null&#10;seq_script_addressbook&#9;null&#9;null&#10;login&#9;null&#9;null&#10;implicitly_wait&#9;null&#9;null&#10;Command&#9;null&#9;null&#10;getUrl&#9;null&#9;null&#10;webdriver&#9;FILE&#9;file://D:/programs/python27/Lib/site-packages/selenium/webdriver/remote/webdriver.py&#10;Firefox&#9;null&#9;null&#10;seq_to_script&#9;FILE&#9;file://D:/PyCharm Community Edition 2017.2/projects/graphTraversal/handle/seq_to_script.py&#10;generate_data_ga&#9;FILE&#9;file://D:/PyCharm Community Edition 2017.2/projects/graphTraversal/handle/generate_data_ga.py&#10;runcase&#9;FILE&#9;file://D:/PyCharm Community Edition 2017.2/projects/graphTraversal/testcase_seq/runcase.py&#10;switch_to_frame&#9;null&#9;null&#10;group&#9;null&#9;null&#10;efsmFromFile&#9;null&#9;null&#10;typ&#9;FILE&#9;file://C:/Users/me/AppData/Local/Programs/Python/Python36/Lib/types.py" />
+    <property name="ToolWindowEvent Log.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../graphTraversal-cu" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="python.debugger.dataview.autoresize" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/module/openconfig" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PyCharm Community Edition 2017.2\projects\graphTraversal\module" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="graphTraversal" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/handle" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/handle/1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="EFSM_V3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="graphTraversal" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EFSM_V3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="cal_data_fit" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="graphTraversal" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/handle" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/handle/cal_data_fit.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="graphTraversal" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\programs\python27\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/handle" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/handle/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="seq_to_script" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="graphTraversal" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/handle" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/handle/seq_to_script.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <module name="graphTraversal" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.1" />
+      <item itemvalue="Python.EFSM_V3" />
+      <item itemvalue="Python.cal_data_fit" />
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.seq_to_script" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.1" />
+        <item itemvalue="Python.seq_to_script" />
+        <item itemvalue="Python.cal_data_fit" />
+        <item itemvalue="Python.EFSM_V3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1b8c5a93-dbed-434f-a95f-0f1637057fe7" name="Default" comment="" />
+      <created>1498179053963</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1498179053963</updated>
+      <workItem from="1623394442946" duration="4438000" />
+      <workItem from="1623675929433" duration="2853000" />
+      <workItem from="1623722963251" duration="19687000" />
+      <workItem from="1623918303754" duration="19592000" />
+      <workItem from="1623943877386" duration="1870000" />
+      <workItem from="1623982977222" duration="1038000" />
+      <workItem from="1623985335092" duration="7602000" />
+      <workItem from="1623996090153" duration="2316000" />
+      <workItem from="1623998599322" duration="2932000" />
+      <workItem from="1624003533898" duration="258000" />
+      <workItem from="1624005056224" duration="11572000" />
+      <workItem from="1624102940361" duration="609000" />
+      <workItem from="1624336878885" duration="11342000" />
+      <workItem from="1624432898040" duration="7468000" />
+      <workItem from="1624799910662" duration="386000" />
+      <workItem from="1624972315897" duration="12844000" />
+      <workItem from="1625186982634" duration="1119000" />
+      <workItem from="1625310994359" duration="5336000" />
+      <workItem from="1625446203556" duration="10016000" />
+      <workItem from="1625533223028" duration="611000" />
+      <workItem from="1625543829212" duration="11431000" />
+      <workItem from="1625586619463" duration="11846000" />
+      <workItem from="1625725705801" duration="49220000" />
+      <workItem from="1626085526873" duration="4981000" />
+      <workItem from="1626138234778" duration="6525000" />
+      <workItem from="1626153026608" duration="3274000" />
+      <workItem from="1626159856295" duration="4885000" />
+      <workItem from="1626224710292" duration="1652000" />
+      <workItem from="1626227384208" duration="21087000" />
+      <workItem from="1626400228492" duration="4586000" />
+      <workItem from="1626702257273" duration="3538000" />
+      <workItem from="1626759559327" duration="8269000" />
+      <workItem from="1626832771996" duration="4000" />
+      <workItem from="1626843554847" duration="3720000" />
+      <workItem from="1631840965027" duration="34940000" />
+      <workItem from="1631955874668" duration="6682000" />
+      <workItem from="1632148825487" duration="2632000" />
+      <workItem from="1632151484481" duration="1437000" />
+      <workItem from="1632153222791" duration="39000" />
+      <workItem from="1632190853199" duration="1804000" />
+      <workItem from="1632207860865" duration="771000" />
+      <workItem from="1632209704451" duration="506000" />
+      <workItem from="1632210254217" duration="110000" />
+      <workItem from="1632210388449" duration="38370000" />
+      <workItem from="1632535006040" duration="17263000" />
+      <workItem from="1632787564210" duration="13891000" />
+      <workItem from="1632912830039" duration="11857000" />
+      <workItem from="1633579100604" duration="2718000" />
+      <workItem from="1633653507461" duration="610000" />
+      <workItem from="1633675110439" duration="2225000" />
+      <workItem from="1633746259901" duration="3991000" />
+      <workItem from="1633870666842" duration="24058000" />
+      <workItem from="1637243999792" duration="3544000" />
+      <workItem from="1638430294426" duration="2547000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_for_testGA_testGA - 2017.08.09 at 11h 30m 36s.xml">
+      <configuration name="Unittests for testGA.testGA" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_testGA_testGA - 2017.08.09 at 12h 13m 31s.xml">
+      <configuration name="Unittests for testGA.testGA" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_generate_data_ga_py - 2018.07.11 at 13h 57m 44s.xml">
+      <configuration name="Unittests in generate_data_ga.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_generate_data_ga_py - 2018.07.11 at 13h 58m 46s.xml">
+      <configuration name="Unittests in generate_data_ga.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_generate_data_ga_py - 2018.07.11 at 14h 12m 51s.xml">
+      <configuration name="Unittests in generate_data_ga.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_generate_data_ga_py - 2018.07.11 at 14h 24m 07s.xml">
+      <configuration name="Unittests in generate_data_ga.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_generate_data_py - 2018.07.11 at 14h 14m 16s.xml">
+      <configuration name="Unittests in generate_data.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_generate_data_py - 2018.07.11 at 14h 14m 20s.xml">
+      <configuration name="Unittests in generate_data.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_tGA_py - 2017.08.09 at 13h 55m 05s.xml">
+      <configuration name="Unittests in tGA.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_testGA_py - 2017.08.09 at 13h 54m 28s.xml">
+      <configuration name="Unittests in testGA.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="579" y="187" key="FileChooserDialogImpl" timestamp="1638449308862">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="579" y="187" key="FileChooserDialogImpl/62.0.1474.864@62.0.1474.864" timestamp="1638449308862" />
+    <state width="1431" height="307" key="GridCell.Tab.0.bottom" timestamp="1638449310503">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="307" key="GridCell.Tab.0.bottom/62.0.1474.864@62.0.1474.864" timestamp="1638449310503" />
+    <state width="1431" height="307" key="GridCell.Tab.0.center" timestamp="1638449310487">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="307" key="GridCell.Tab.0.center/62.0.1474.864@62.0.1474.864" timestamp="1638449310487" />
+    <state width="1431" height="307" key="GridCell.Tab.0.left" timestamp="1638449310487">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="307" key="GridCell.Tab.0.left/62.0.1474.864@62.0.1474.864" timestamp="1638449310487" />
+    <state width="1431" height="307" key="GridCell.Tab.0.right" timestamp="1638449310487">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="307" key="GridCell.Tab.0.right/62.0.1474.864@62.0.1474.864" timestamp="1638449310487" />
+    <state width="1431" height="240" key="GridCell.Tab.1.bottom" timestamp="1637246193789">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="240" key="GridCell.Tab.1.bottom/62.0.1474.864@62.0.1474.864" timestamp="1637246193789" />
+    <state width="1431" height="240" key="GridCell.Tab.1.center" timestamp="1637246193789">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="240" key="GridCell.Tab.1.center/62.0.1474.864@62.0.1474.864" timestamp="1637246193789" />
+    <state width="1431" height="240" key="GridCell.Tab.1.left" timestamp="1637246193789">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="240" key="GridCell.Tab.1.left/62.0.1474.864@62.0.1474.864" timestamp="1637246193789" />
+    <state width="1431" height="240" key="GridCell.Tab.1.right" timestamp="1637246193789">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="240" key="GridCell.Tab.1.right/62.0.1474.864@62.0.1474.864" timestamp="1637246193789" />
+    <state x="301" y="77" key="SettingsEditor" timestamp="1632210212711">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="301" y="77" key="SettingsEditor/62.0.1474.864@62.0.1474.864" timestamp="1632210212711" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../atm_zhao_20100805/EFSMS.py</url>
+          <line>3503</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../atm_zhao_20100805/examples/efsm_example.py</url>
+          <line>80</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../atm_zhao_20100805/examples/efsm_example.py</url>
+          <line>45</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../EFSM_test_generated/EFSM.py</url>
+          <line>1133</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../atm_zhao_20100805/examples/efsm_example.py</url>
+          <line>78</line>
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../atm_zhao_20100805/EFSM.py</url>
+          <line>1332</line>
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../atm_zhao_20100805/EFSM.py</url>
+          <line>1336</line>
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../atm_zhao_20100805/EFSM.py</url>
+          <line>1337</line>
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../atm_zhao_20100805/EFSM.py</url>
+          <line>1339</line>
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../atm_zhao_20100805/EFSM.py</url>
+          <line>1340</line>
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../atm_zhao_20100805/EFSM.py</url>
+          <line>1338</line>
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../atm_zhao_20100805/EFSM.py</url>
+          <line>1649</line>
+          <option name="timeStamp" value="100" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../atm_zhao_20100805/EFSM.py</url>
+          <line>1662</line>
+          <option name="timeStamp" value="101" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../atm_zhao_20100805/EFSM.py</url>
+          <line>1264</line>
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../atm_zhao_20100805/EFSM.py</url>
+          <line>1277</line>
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../atm_zhao_20100805/EFSM.py</url>
+          <line>1281</line>
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../atm_zhao_20100805/EFSM.py</url>
+          <line>1284</line>
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../atm_zhao_20100805/EFSM.py</url>
+          <line>1286</line>
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../atm_zhao_20100805/EFSM.py</url>
+          <line>1291</line>
+          <option name="timeStamp" value="107" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../atm_zhao_20100805/EFSM.py</url>
+          <line>1296</line>
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../atm_zhao_20100805/EFSM.py</url>
+          <line>1298</line>
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../atm_zhao_20100805/EFSM.py</url>
+          <line>1310</line>
+          <option name="timeStamp" value="110" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/testcase_seq/case.py</url>
+          <line>165</line>
+          <option name="timeStamp" value="321" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../tools_slim3/dep_analyser/efsm_run.py</url>
+          <line>40</line>
+          <option name="timeStamp" value="385" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../tools_slim3/dep_analyser/EFSM.py</url>
+          <line>3364</line>
+          <option name="timeStamp" value="386" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../writetest/test-output/g.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="393" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../writetest/test-output/g.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="394" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../writetest/test-output/g.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="395" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../writetest/test-output/g.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="396" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../writetest/test-output/g.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="397" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../writetest/test-output/g.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="398" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../writetest/test-output/g.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="399" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../writetest/test-output/g.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="400" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../writetest/test-output/g.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="401" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://C:/Python27/Lib/HTMLParser.py</url>
+          <line>115</line>
+          <option name="timeStamp" value="426" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../writetest/SA.py</url>
+          <line>259</line>
+          <option name="timeStamp" value="432" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/handle/generate_seq_graph_traversal.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="493" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/testcase_seq/runcase.py</url>
+          <line>124</line>
+          <option name="timeStamp" value="499" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/testcase_seq/case.py</url>
+          <line>180</line>
+          <option name="timeStamp" value="503" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../efsmGA/EFSM.py</url>
+          <line>192</line>
+          <option name="timeStamp" value="504" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../writetest/SAsample.py</url>
+          <line>44</line>
+          <option name="timeStamp" value="595" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../writetest/SAsample.py</url>
+          <line>48</line>
+          <option name="timeStamp" value="596" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../writetest/SAsample.py</url>
+          <line>43</line>
+          <option name="timeStamp" value="597" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../writetest/sa/sa.py</url>
+          <line>61</line>
+          <option name="timeStamp" value="598" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../writetest/sa/sa.py</url>
+          <line>92</line>
+          <option name="timeStamp" value="600" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../writetest/sa/sa.py</url>
+          <line>97</line>
+          <option name="timeStamp" value="601" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../writetest/sa/sa.py</url>
+          <line>104</line>
+          <option name="timeStamp" value="602" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../writetest/sa/sa.py</url>
+          <line>113</line>
+          <option name="timeStamp" value="603" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../writetest/sa/sa.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="606" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/handle/generate_seq_ga_check.py</url>
+          <line>1708</line>
+          <option name="timeStamp" value="644" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/handle/generate_seq_ga_check.py</url>
+          <line>130</line>
+          <option name="timeStamp" value="665" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../writetest/SA.py</url>
+          <line>173</line>
+          <option name="timeStamp" value="679" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../writetest/spectral_clustering/spectral_cluster.py</url>
+          <line>91</line>
+          <option name="timeStamp" value="706" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../writetest/spectral_clustering/spectral_cluster.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="721" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/handle/cluster.py</url>
+          <line>205</line>
+          <option name="timeStamp" value="727" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../writetest/spectral_clustering/spectral_cluster.py</url>
+          <line>67</line>
+          <option name="timeStamp" value="734" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../writetest/spectral_clustering/spectral_cluster.py</url>
+          <line>71</line>
+          <option name="timeStamp" value="735" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/handle/cluster.py</url>
+          <line>246</line>
+          <option name="timeStamp" value="740" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/handle/cluster.py</url>
+          <line>250</line>
+          <option name="timeStamp" value="741" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/handle/cluster.py</url>
+          <line>251</line>
+          <option name="timeStamp" value="742" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/handle/cluster.py</url>
+          <line>412</line>
+          <option name="timeStamp" value="765" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/handle/cluster.py</url>
+          <line>414</line>
+          <option name="timeStamp" value="766" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/handle/generate_seq_ga_check.py</url>
+          <line>108</line>
+          <option name="timeStamp" value="784" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/handle/generate_seq_ga_check.py</url>
+          <line>127</line>
+          <option name="timeStamp" value="787" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../writetest/test.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="793" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../writetest/test.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="795" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../writetest/test.py</url>
+          <line>140</line>
+          <option name="timeStamp" value="796" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../writetest/test.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="797" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../writetest/test.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="799" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/handle/generate_seq_ga_check.py</url>
+          <line>138</line>
+          <option name="timeStamp" value="802" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../writetest/test.py</url>
+          <line>99</line>
+          <option name="timeStamp" value="803" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../writetest/test.py</url>
+          <line>100</line>
+          <option name="timeStamp" value="805" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../writetest/test.py</url>
+          <line>102</line>
+          <option name="timeStamp" value="806" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/handle/generate_seq_ga_check.py</url>
+          <line>1648</line>
+          <option name="timeStamp" value="811" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/handle/generate_seq_ga_check.py</url>
+          <line>1657</line>
+          <option name="timeStamp" value="833" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/handle/generate_seq_ga_check.py</url>
+          <line>1694</line>
+          <option name="timeStamp" value="834" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/handle/execute.py</url>
+          <line>49</line>
+          <option name="timeStamp" value="835" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/handle/execute.py</url>
+          <line>63</line>
+          <option name="timeStamp" value="838" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/handle/generate_seq_ga_check.py</url>
+          <line>146</line>
+          <option name="timeStamp" value="839" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/handle/generate_seq_ga_check.py</url>
+          <line>608</line>
+          <option name="timeStamp" value="849" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/handle/local_search_alg.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="854" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/handle/execute.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="861" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/handle/execute.py</url>
+          <line>58</line>
+          <option name="timeStamp" value="864" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/handle/execute.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="866" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/handle/execute.py</url>
+          <line>42</line>
+          <option name="timeStamp" value="870" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/handle/local_search_alg.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="871" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/handle/SAalgor.py</url>
+          <line>210</line>
+          <option name="timeStamp" value="872" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/handle/obtain_efsm_info2.py</url>
+          <line>57</line>
+          <option name="timeStamp" value="873" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/handle/handle_EFSM_module.py</url>
+          <line>321</line>
+          <option name="timeStamp" value="875" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/handle/handle_EFSM_module.py</url>
+          <line>307</line>
+          <option name="timeStamp" value="876" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/handle/generate_seq_ga_check.py</url>
+          <line>111</line>
+          <option name="timeStamp" value="881" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/handle/generate_seq_ga_check.py</url>
+          <line>119</line>
+          <option name="timeStamp" value="883" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/handle/generate_seq_ga_check.py</url>
+          <line>113</line>
+          <option name="timeStamp" value="885" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/handle/generate_seq_ga_check.py</url>
+          <line>38</line>
+          <option name="timeStamp" value="886" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/handle/generate_seq_ga_check.py</url>
+          <line>41</line>
+          <option name="timeStamp" value="887" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/handle/generate_seq_ga_check.py</url>
+          <line>466</line>
+          <option name="timeStamp" value="888" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/handle/SAalgor.py</url>
+          <line>163</line>
+          <option name="timeStamp" value="897" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/handle/local_search_alg.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="898" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../writetest/SA.py</url>
+          <line>266</line>
+          <option name="timeStamp" value="899" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../writetest/SA.py</url>
+          <line>254</line>
+          <option name="timeStamp" value="900" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/handle/local_search_alg.py</url>
+          <line>63</line>
+          <option name="timeStamp" value="907" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/handle/HCalgor.py</url>
+          <line>254</line>
+          <option name="timeStamp" value="908" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/handle/HCalgor.py</url>
+          <line>303</line>
+          <option name="timeStamp" value="910" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/handle/HCalgor.py</url>
+          <line>305</line>
+          <option name="timeStamp" value="911" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/handle/HCalgor.py</url>
+          <line>306</line>
+          <option name="timeStamp" value="912" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/handle/HCalgor.py</url>
+          <line>258</line>
+          <option name="timeStamp" value="913" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/handle/HCalgor.py</url>
+          <line>271</line>
+          <option name="timeStamp" value="914" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/handle/HCalgor.py</url>
+          <line>272</line>
+          <option name="timeStamp" value="915" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/handle/cal_data_fit.py</url>
+          <line>263</line>
+          <option name="timeStamp" value="919" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/handle/cal_data_fit.py</url>
+          <line>130</line>
+          <option name="timeStamp" value="923" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/handle/generate_seq_ga_check.py</url>
+          <line>89</line>
+          <option name="timeStamp" value="940" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/handle/cal_data_fit.py</url>
+          <line>310</line>
+          <option name="timeStamp" value="942" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/handle/cal_data_fit.py</url>
+          <line>272</line>
+          <option name="timeStamp" value="943" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/handle/cal_data_fit.py</url>
+          <line>276</line>
+          <option name="timeStamp" value="944" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/handle/cal_data_fit.py</url>
+          <line>131</line>
+          <option name="timeStamp" value="945" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../efsmGA/a.py</url>
+          <line>53</line>
+          <option name="timeStamp" value="948" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/handle/generate_seq_ga_check.py</url>
+          <line>1498</line>
+          <option name="timeStamp" value="954" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/handle/handle_EFSM_module.py</url>
+          <line>394</line>
+          <option name="timeStamp" value="955" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="self" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/graphTraversal$1.coverage" NAME="1 Coverage Results" MODIFIED="1623737830605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/handle" />
+    <SUITE FILE_PATH="coverage/graphTraversal$main.coverage" NAME="main Coverage Results" MODIFIED="1638431542031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/handle" />
+  </component>
+</project>
